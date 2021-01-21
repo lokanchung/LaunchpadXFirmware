@@ -13,7 +13,7 @@ Use Novation Components to roll back to stock firmware.
 ## Instructions
 
 1. Download <code>.syx</code> file at release page.
-1. Use this amazing utility to upload the firmware: 
+1. Use this amazing utility by Brendonovich & mat1jaczyyy to upload the firmware: 
     - https://fw.mat1jaczyyy.com/firmware
     - WebMIDI compatible browser is required. (Use Chrome)
 1. Enter <code>↑ ↑ ↓ ↓ ← → ← → B A</code> to enable custom firmware menu.
